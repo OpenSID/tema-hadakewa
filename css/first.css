@@ -584,6 +584,7 @@ table.counter tr td {
 	padding: 5px;
 	margin-top: 5px;
 	border-radius: 27px;
+	float: right;
 }
 .readmore a {
 	color: #fff;
