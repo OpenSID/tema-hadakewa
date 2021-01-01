@@ -129,8 +129,7 @@
 		</script>
 		<?php $this->load->view('head_tags_front') ?>
 	</head>
-	<body>
-
+	<body style="background-image: url('<?= base_url($latar_website) ?>')">
 		<div id="maincontainer">
 			<div id="topsection">
 				<div id="header">
